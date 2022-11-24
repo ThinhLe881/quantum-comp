@@ -1,1 +1,1 @@
-# quantum-comp
+# Quantum Computing - Thinh Le
